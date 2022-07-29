@@ -188,8 +188,8 @@ yat:
 
 # Gitment comments
 # gitment:
-#   username: "Your GitHub username"
-#   repo: "The repo to store comments"
+#   username: "whitegalaxys"
+#   repo: "https://github.com/whitegalaxys/whitegalaxys.github.io.git"
 #   client_id: "Your client ID"
 #   client_secret: "Your client secret"
 #   redirect_uri: "Your redirect url"   # If you use a custom domain name
