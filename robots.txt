@@ -1,0 +1,1 @@
+Sitemap: http://whitegalaxys.github.io/jekyll-theme-yat/sitemap.xml
